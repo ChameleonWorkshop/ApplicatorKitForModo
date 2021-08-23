@@ -12,6 +12,12 @@
 - [Walkthrough](https://www.youtube.com/watch?v=nm-js_KEan4)
 - [Mapping Files](https://www.youtube.com/watch?v=1tP6rzJ5bVk)
 
+### **Installation:**
+1. Open Modo
+2. System > Open User Folder
+3. Copy the Applicator folder into the Kits folder
+4. Restart Modo
+
 ### **Key Features:**
 - **Item Hierarchy Target:** apply the data to all mapped targets within a hierarchy of items in a scene
 - **Actor and Action Target:** apply the data to an Actor, and optionally as an Action (new or existing)

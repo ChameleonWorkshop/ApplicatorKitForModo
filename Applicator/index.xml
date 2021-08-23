@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="801">
+    <kit name="Applicator" restart="YES">
+        <source target="Applicator/index.cfg">index.cfg</source>
+        <source target="Applicator/credits.txt">credits.txt</source>
+        <source target="Applicator/licence.txt">licence.txt</source>
+        <source target="Applicator/Configs/Applicator_button.cfg">Configs/Applicator_button.cfg</source>
+        <source target="Applicator/Configs/Applicator_layouts.cfg">Configs/Applicator_layouts.cfg</source>
+        <source target="Applicator/Configs/Applicator_sheet.cfg">Configs/Applicator_sheet.cfg</source>
+        <source target="Applicator/Configs/Applicator_vars.cfg">Configs/Applicator_vars.cfg</source>
+        <source target="Applicator/Resources/Apply.png">Resources/Apply.png</source>
+        <source target="Applicator/Resources/button.png">Resources/button.png</source>
+        <source target="Applicator/Scripts/applicator.py">Scripts/applicator.py</source>
+        <source target="Applicator/Scripts/capture_file_clear.py">Scripts/capture_file_clear.py</source>
+        <source target="Applicator/Scripts/capture_file_path.py">Scripts/capture_file_path.py</source>
+        <source target="Applicator/Scripts/mapping_file_clear.py">Scripts/mapping_file_clear.py</source>
+        <source target="Applicator/Scripts/mapping_file_path.py">Scripts/mapping_file_path.py</source>
+        <source target="Applicator/Scripts/neutral_file_clear.py">Scripts/neutral_file_clear.py</source>
+        <source target="Applicator/Scripts/neutral_file_path.py">Scripts/neutral_file_path.py</source>
+    </kit>
+    <message button="Help">Applicator Kit installation complete. Please restart Modo</message>
+</package>
